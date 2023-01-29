@@ -1,0 +1,29 @@
+Frame #01-> Desinging a home page ==> (Pending) Priority->3
+
+Frame #02-> Ask for type of presentation and audience ==> (Pending) -> 5
+
+Frame #03-> Ask for topic you want to present ==>(Working)  ->  7
+
+	--> Give suggestions
+
+Frame #04-> Main Content Page (Pending)   -> 6 # Main Work
+
+		--> Inro
+			---> Suggestions, Inroduction of yourself optional 
+		-> Body
+			---> Talking headings, elaborate with an example 
+		-> Closing
+			---> Summarize the talk, the points and break suspense if created in intro
+
+Frame #05 -> Result Page (pending) -> 4 
+
+		--> Show the intro body and closing, editable as well
+		--> option for creating small notes for each section 
+
+Frame #06 -> Practice Page (pending) -> 3
+
+		--> Provide text and ask the user to speak it out loud to practice 
+		    the speech. 
+
+		
+
